@@ -7,6 +7,8 @@
 4. when it runs, user can input the queries, and still continuing the conversation with the chat_history.
 5. If user give the query "new chat" it will delete all chat_history and start a new conversation
 6. If user give the query "exit" it will close the terminate the conversation-session
+   ![5_terminal](https://github.com/user-attachments/assets/46f75a63-8aab-4946-8b55-96a4dee30a9b)
+
 
 ## Fast API Running
 1. run by the API by activate the venv first, then ```python api.py```
