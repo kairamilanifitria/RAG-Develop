@@ -12,10 +12,11 @@ To run in local:
   "GPU Name: NVIDIA GeForce RTX 3050"
 ```
    if you have GPU but its not detected, run ```nvidia-smi```in the cmd first to check
+   
 6. the code also can be run in the CPU, but it may takes longer time to process
 7. some arguments errors were solved this time, but maybe it can show problems in another env, so make sure all of them are run in the same env
 
-## API running
+## Fast API running
 1. run by the API by activate the venv first, then ```python api.py```
 2. i made another file in ```api.py``` for integrating with fastapi without changing the ```main.py```
 3. don't forget to open http url in browser and add the ```{url}/docs``` to run the function method available
