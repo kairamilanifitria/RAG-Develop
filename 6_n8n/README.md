@@ -1,10 +1,15 @@
 # n8n Integrations
 
 ## Build the Knowledge Base
-include the process for ```PARSING```, ```IMAGE DESCRIPTION```, ```CHUNKING```, ```STORE EMBEDDING IN SUPABASE```
+1. include the process for ```PARSING```, ```IMAGE DESCRIPTION```, ```CHUNKING```, ```STORE EMBEDDING IN SUPABASE```
+2. to import the workflow, import the ```knowledge_base.json``` file into new workflow in n8n
+3. integrate with customable API url for each stage in RAG stated in point 1
+
 
 ## Chat Interface 
-build the chat interface from last stage in RAG in ```RETRIEVAL``` and ```Chat LLM```
+1. build the chat interface from last stage in RAG in ```RETRIEVAL``` and ```Chat LLM```
+2. to import the workflow, import the ```chatbot.json``` file into new workflow in n8n
+3. integrate with customable API url for last stage in RAG in 5_retrieval_llm
 
 ### Knowledge base Workflow
 ![n8n_onebyone](https://github.com/user-attachments/assets/9e5972a7-0628-46e1-9225-e05b0f376cb5)
