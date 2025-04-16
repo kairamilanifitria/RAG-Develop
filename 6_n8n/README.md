@@ -20,3 +20,5 @@
 
 ### Chat Interface
 ![n8n--1](https://github.com/user-attachments/assets/f559df22-5a4c-47f1-87c7-aefb2cf136c7)
+
+updates: still working on setting the chat interface to still maintain the chat_history, and only show the assistant answer only to user
