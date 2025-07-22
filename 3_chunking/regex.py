@@ -157,7 +157,4 @@ def process_markdown(file_path):
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(final_chunks, f, indent=4, ensure_ascii=False)
-    print(f"Chunking complete. Saved to {output_path}")
-
-if __name__ == "__main__":
-    process_markdown("./input_md/{filename}.md") # change the file path
+    print(f"✅ Chunking complete. Saved to {output_path}")
