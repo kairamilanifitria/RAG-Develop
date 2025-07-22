@@ -42,8 +42,8 @@ s3 = boto3.client(
 )
 
 vx = vecs.create_client(DB_CONNECTION)
-vec_text = vx.get_or_create_collection(name="kb.text", dimension=768)
-vec_table = vx.get_or_create_collection(name="kb.table", dimension=768)
+vec_text = vx.get_or_create_collection(name="kb_text", dimension=768)
+vec_table = vx.get_or_create_collection(name="kb_table", dimension=768)
 
 # ========== EMBEDDING MODEL ==========
 logger.info("🔍 Loading embedding model...")
@@ -205,12 +205,12 @@ def store_chunks_in_supabase(chunks):
             table_records.append((chunk_id, embedding, metadata))
 
     if doc_rows:
-        supabase.table("kb.text").insert(doc_rows).execute()
+        supabase.table("kb_text").insert(doc_rows).execute()
         vec_text.upsert(text_records)
         logger.info(f"✅ Uploaded {len(doc_rows)} text chunks to Supabase")
 
     if tab_rows:
-        supabase.table("kb.table").insert(tab_rows).execute()
+        supabase.table("kb_table").insert(tab_rows).execute()
         vec_table.upsert(table_records)
         logger.info(f"✅ Uploaded {len(tab_rows)} table chunks to Supabase")
 
@@ -230,8 +230,8 @@ def upload_original_pdf(pdf_path: Path, supabase_url, bucket_name="kb.files"):
         public_url = f"{supabase_url}/storage/v1/object/public/{bucket_name}/{storage_path}"
         logger.info(f"📄 Uploaded original PDF: {file_name} → {public_url}")
 
-        # Insert file metadata into public.kb.files
-        supabase.table("kb.files").insert({
+        # Insert file metadata into public.kb_files
+        supabase.table("kb_files").insert({
             "file_name": file_name,
             "file_path": public_url
         }).execute()
