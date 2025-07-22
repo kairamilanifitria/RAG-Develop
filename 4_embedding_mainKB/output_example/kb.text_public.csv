@@ -1,0 +1,258 @@
+chunk_id,content,metadata
+01d9b595-92e2-40c4-af75-f95c90da563e,"## 4.2.1 Unit Location Recommendations
+4. **Vent opening**: There's a visible opening for airflow outside.","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 77}"
+022d564f-445f-434c-8d57-6d56b3acb128,"## 2 Model Descriptions
+Exhaust-air AHU AHU with cross-flow exchanger","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 27}"
+08fc5da6-0e2f-43de-8f06-fe0456fcedef,"## 4.2.1 Unit Location Recommendations
+- 3. The installer must provide external rigging for ceiling mounted units.","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 71}"
+0b9f11bd-2b45-459f-8e44-de7113f43bf9,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000007_dcc60060547e972d97e238efca87ed01831536068a5012f54a2270c56055df3b.png)
+
+*Image Description:* The image shows a cautionary sign with a yellow triangle containing an exclamation mark inside it. The background is white, and the sign is designed to alert viewers to potential dangers.","{""source"": ""testing1.md"", ""section"": ""1 Warming, Cautions and Notices"", ""position"": 5}"
+0ba137c0-ffb0-4a8b-b862-17f1908ab84f,"## 4.1.1 Receiving Checklist
+-  Compare the electrical data on the unit nameplate with the ordering and shipping information to verify the correct unit is received.","{""source"": ""testing1.md"", ""section"": ""4.1.1 Receiving Checklist"", ""position"": 62}"
+0c5d51e9-d525-4a68-87d4-5286228d67e1,"## 4.2 Installation Preparation
+The units are designed for suspended installation. Suspension of units requires external rigging which shall be field-mounted. Ensure the ceiling opening is large enough for unit installation and maintenance requirements. By default the AHU is positioned horizontalsuspended and also it is possible to set the unit in a vertical position - on a wall.","{""source"": ""testing1.md"", ""section"": ""4.2 Installation Preparation"", ""position"": 65}"
+0cb395b3-44fc-43a3-a446-6c392d5c4715,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000030_5d37dbb319ad0de01a4bd54b47dbf475713fbd5a6ee9d5ee8676db063ab239c6.png)
+
+*Image Description:* The image appears to be a technical drawing showing a rectangular section with annotated dimensions labeled as “L.” It features angular markers at the intersections of the edges, likely indicating precise locations for cut or mounting points.","{""source"": ""testing1.md"", ""section"": ""FHEV:"", ""position"": 45}"
+0e68e4d3-7114-4fba-81f0-3f064293a21a,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000023_7bd93289da28a9bc62c79d58ea47e1a150a28b08c37e09c883d5d4d88959305b.png)
+
+*Image Description:* The image shows two arrows pointing downward, each with a different stroke style: one is thicker and black, and the other is thinner and grey.","{""source"": ""testing1.md"", ""section"": ""General Information"", ""position"": 32}"
+125119c1-1484-48dc-a71a-9d8fc18f6bb9,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000018_34134db9d995f5bbcb5b23251ccb96a028f770440aadd6e07ac1791abdc481e3.png)
+
+*Image Description:* The image depicts a representation of a heat exchanger, specifically a counter-flow type. It is a cylindrical structure with four sections where air flows in parallel. The inner section is shaded, indicating where heat transfer occurs, while the outer sections are darker, showing the flow direction away from and towards the heating surface. The design suggests efficient energy use in HVAC systems.","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 21}"
+164db606-b3c8-4d82-886a-1755371a5486,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000028_91c9ed4692dad6cac8e847166937b61d43368ac34ee324285c6c12c15bd440d5.png)
+
+*Image Description:* The image is a technical drawing of the section of a FHEV (Fuel-Efficient Hybrid Electric Vehicle). Here are the details:","{""source"": ""testing1.md"", ""section"": ""FHEV:"", ""position"": 43}"
+1b64ec46-eb44-4502-98a6-dfa0bc56dd94,"## 4.1.1 Receiving Checklist
+-  Do not continue unpacking the shipment if it appears damaged. Retain all internal packing, cartons, and crate. Take photos of damaged material if possible.","{""source"": ""testing1.md"", ""section"": ""4.1.1 Receiving Checklist"", ""position"": 56}"
+28a8c78a-fb65-47d3-ae57-5c2e096b61b8,"## SAFETY WARNING!
+-  When working on the equipment, observe all precautions in the literature and on the tags, stickers, and labels that are attached to the equipment.","{""source"": ""testing1.md"", ""section"": ""SAFETY WARNING!"", ""position"": 11}"
+3100d6ab-9f67-410a-afc3-6262a07e904c,"## 4.2.1 Unit Location Recommendations
+7. **Outlet of the Exhaust Air**: The air is also drawn out through this. All components facilitate efficient airflow and cooling.","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 80}"
+318b8697-514a-4ec4-87f4-c8659c501e76,"## Preamble
+Note! There are two options for time schedule operation. For details, follow manual for uPC3 ![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000000_9c84c07750648f44d669e076b70a338babd547a1506d76214154aa8b88e7ea66.png) *Image Description:* The image shows a control module with an open door, revealing a detailed interface with various knobs and indicators. On the side, there are colored buttons, possibly for different functions. The left side of the module displays numerical codes and symbols, along with what appears to be a clock symbol. The main panel has labeling and technical symbols, indicating specifications for operation and safety. ![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000001_997111cf74526ca091308c8fdc4d6398c70692e0897709915f5516dcaacaced3.png) *Image Description:* The image displays a grey circle with a large white letter ""N"" inside it. Operation and Maintenance Manual VENTUS Suspended Air-Handling Units Rated air flow range 280 - 4300 m3/h ![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000002_47fbe6a1a4076d10a0828ac941cc9e33ec5a2e068c3c61cdf0d53bbe8a32ad37.png) *Image Description:* The image shows the term ""VENTUS"" in a stylized font, likely referring to a product related to HVAC systems, particularly the Ventus suspended air-handling units. VenTUs ![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000003_799c014a9d2bb6914622fc2323acc61336ae45cc0764f414919406fc751de853.png) *Image Description:* The image appears to be a logo design for ""VTS."" The logo includes the letters ""VTS"" in a bold, modern font, with the 'V' and 'T' in gray and the 'S' in a slightly darker shade. Above the letters, there is an orange arc, resembling a wave or swoosh. The overall design suggests a dynamic and professional appearance. ![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000004_325dee478923cf2d88141a9a4805e7ada08682acab167db5d26f52799247e13b.png) *Image Description:* The image is the logo of ""VTS."" It features the text ""VTS"" in bold, with an orange arc above the letters. The logo uses a simple, modern design with a gray and orange color scheme.","{""source"": ""testing1.md"", ""section"": ""Preamble"", ""position"": 1}"
+340e0051-0c6f-4e10-a494-7ae7a27ec5c4,"## 4.2.1 Unit Location Recommendations
+1. **Inlet to the Exhaust Air**: The air enters the unit through this part.","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 74}"
+359f4264-357b-487d-86e6-d8d7553ad1bc,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000027_0dfec3695555fd17cb5a0f272f3027f013f9abbc471019072e54f2500260c1dc.png)
+
+*Image Description:* The image shows a FVH (Fuel Valve Hose Vacuum) system featuring a filter, a water heater, and a fan. The vacuum system is designed for vehicle fuels (FHEV).","{""source"": ""testing1.md"", ""section"": ""FPV + HC:"", ""position"": 40}"
+391c592c-647a-4c6b-89d0-f87755cf9e7e,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000025_9ad15782076e4ae9ffba6177fb49b1dd00c8f53e0d3cec997631a98127824901.png)
+
+*Image Description:* The image depicts a logo consisting of the letters ""VTS"" with a curved orange arc above it.","{""source"": ""testing1.md"", ""section"": ""FPV + HC:"", ""position"": 38}"
+3b6c5628-bcf6-4c64-b713-72950097e7bf,"## SAFETY WARNING!
+-  The installation, starting up, and servicing air handling units and their equipment can be hazardous and requires specific knowledge and training.","{""source"": ""testing1.md"", ""section"": ""SAFETY WARNING!"", ""position"": 9}"
+3f80e394-02fe-4a1a-9b0c-c589e40ca572,"## 4.1.1 Receiving Checklist
+-  Notify the carrier's terminal of the damage immediately by phone and mail. Request an immediate joint inspection of the damage by the carrier and consignee.","{""source"": ""testing1.md"", ""section"": ""4.1.1 Receiving Checklist"", ""position"": 60}"
+4003f0d8-a9d6-466b-9bed-86dd9639b015,"## 2 Model Descriptions
+The VENTUS suspended air handling units are draw-thru air handlers for recuperation, cooling or/and heating load conditions of the air flow range 280-4300 m3/h. The VENTUS air-handling units are designed for a ventilation system where an access to the rotating parts of the unit (a fan's rotor) is feasible neither from the overpressure nor sub atmospheric pressure side of the unit. AHUs are equipped with a wide range of functional sections which offers extensive possibilities of realizing the air treatment process starting from the simplest supply and exhaust to conditioning the supplied air in the field of such parameters as temperature (heat recovery, heating: water of electric heaters, cooling: water or freon coolers), filtration, primary and secondary filters as well as noise level reduction (we offer silencing curtains without any casing to be assembled inside a duct). There is a list of symbols and functions of air handling units: The logos seem to be part of a branding or design element. Table 1 Functions coding","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 25}"
+424189b4-6b1d-4de7-b95b-09280c4e2936,"## 4.2.2 Assembly in suspended position
+Suspension of an AHU as a part of ventilation ducts is carried out using suspension grips which are located at a side of each AHU section (fig.8). Application of M8 screwed rods facilitates and speeds up suspension and levelling of each AHU section (the screwed rods are not included).","{""source"": ""testing1.md"", ""section"": ""4.2.2 Assembly in suspended position"", ""position"": 81}"
+4459163a-e3dc-4982-a300-60708a98c5b8,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000024_a02976b7c088f695a4228c73aeb4feca2631a0097dc47693bc850aa79f23e015.png)
+
+*Image Description:* The image shows a logo consisting of the letters ""VTS"" with the letters ""V"" and ""T"" in a stylized font and the letter ""S"" above them. The ""V"" has an orange arc above it, giving the logo a modern and professional appearance.","{""source"": ""testing1.md"", ""section"": ""General Information"", ""position"": 33}"
+4817bcab-33f0-465b-929c-e3e67b6eba67,"## SAFETY WARNING!
+-  Installation, maintenance and repair must carried out by qualified technical personnel or they are supervised by authorized staff. The qualified technical personnel is understood as the trained specialists, who due to the professional experience, knowledge of the subject-related standards, documentation and regulations concerning operation and safety procedures, have been authorized to perform necessary operations and who are able to troubleshoot any potential problems.","{""source"": ""testing1.md"", ""section"": ""SAFETY WARNING!"", ""position"": 12}"
+4ddc3c0b-620f-4402-9e1e-26caf343257d,"## 4 Pre-Installation 4.1 Transport and storage
+- NOTICE! Packages onsite must be stored on hardened, dry and protected against any precipitation place.","{""source"": ""testing1.md"", ""section"": ""4 Pre-Installation 4.1 Transport and storage"", ""position"": 52}"
+4f3966b5-d0e5-45ce-a97a-16468ad21191,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000022_72d69f49e737e79e25282158678212de1e63fbaa6383f639c4b0a74cd7461228.png)
+
+*Image Description:* The image shows a sectional view of a heating, ventilation, and air conditioning (HVAC) unit with airflow direction indicated. The image is divided into three different views:","{""source"": ""testing1.md"", ""section"": ""General Information"", ""position"": 31}"
+5ad65638-3a98-4b49-9205-e3ff2f294b1e,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000009_c7c3efc64364e1d0c7440ba8be7229d1ecec2e9cc5de87e56843e0ce18ef1109.png)
+
+*Image Description:* The image shows a cautionary sign with a yellow triangle and an exclamation mark inside, indicating a potential hazard or cautionary situation.","{""source"": ""testing1.md"", ""section"": ""SAFETY WARNING!"", ""position"": 7}"
+62a8d8ad-1e5c-4f2e-9e2e-ddd9a33e1b8f,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000010_3035a0c6ca9f3c81c87478bf471a4e28400e5654db4c1aed915b434c6208f92f.png)
+
+*Image Description:* The image shows a circular checkmark, indicating a positive outcome or correct information.","{""source"": ""testing1.md"", ""section"": ""SAFETY WARNING!"", ""position"": 8}"
+62b18cd8-6a27-4881-89ab-6b1ec842a4f1,"## SAFETY WARNING!
+-  Warranty repairs of VTS AHUs can only be performed by Authorized VTS Service, having an appropriate certificate allowing this type of works. We also recommend that Authorized VTS Service should carry out assemblies, start-ups, post-warranty repairs, overhauls and maintenance works performed on AHUs. ATTENTION: Warnings, Cautions and Notices appear throughout this document. Read it carefully: WARNING! Indicates a potentially hazardous situation which, if not avoided, could result in death or serious injury. CAUTION! Indicates a potentially hazardous situation which, if not avoided, could result in minor or moderate injury. It could also be used to alert against unsafe practices. NOTICE ! Indicates a situation that could result in equipment or property-damage only. Failure to follow recommendations could result in death or serious injury.","{""source"": ""testing1.md"", ""section"": ""SAFETY WARNING!"", ""position"": 13}"
+6704c402-fabf-4be2-8065-db3629fb9879,"## 4.2 Installation Preparation
+- NOTICE! It is not acceptable to install the units horizontally on a wall (sideways - in parallel to the ceiling). In case of vertical assembly it is important that the exchanger's inlet and outlet connections were positioned horizontally. Air flow must be directed vertically. Devices equipped with an electric heater cannot be mounted vertically.","{""source"": ""testing1.md"", ""section"": ""4.2 Installation Preparation"", ""position"": 66}"
+6e4c64b4-0c30-4df9-ac0b-8e7b40099ee9,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000034_4dea8c68e9b124989aabfca79d2668853cf25e6e047c4391903e27110edc479e.png)
+
+*Image Description:* The image shows the assembly of an air conditioning unit. It includes various components and connections:","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 67}"
+7017544d-28c8-4118-801c-786c1a87bf88,"## NOTICE!
+Any damages caused by improper transportation, unloading or storage are not covered by the Warrantee and any claims laid by way of aforementioned issues will not be examined by VTS .","{""source"": ""testing1.md"", ""section"": ""NOTICE!"", ""position"": 63}"
+70b3b45b-cb10-47bf-856b-15aced0d9958,"## 4.1.1 Receiving Checklist
+Complete the following checklist immediately after receiving unit shipment to detect possible shipping damage.","{""source"": ""testing1.md"", ""section"": ""4.1.1 Receiving Checklist"", ""position"": 54}"
+72711ac1-87d2-49cb-81aa-5be44b26fbb5,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000005_ddcd61f3346617fe0731754e44508ee675c3b24642359f99a8035163adc1ded0.png)
+
+*Image Description:* The image is a logo featuring the letters ""VTS"" in bold, with an associated icon representing a stylized, arched line in yellow. The color scheme is primarily gray and yellow. The text likely stands for ""VTS,"" which might represent ""Visual Tracking System.""","{""source"": ""testing1.md"", ""section"": ""Table of content"", ""position"": 2}"
+77185686-bd21-4950-8c7f-1a44934b8f6d,"## 4.1.1 Receiving Checklist
+-  Notify your VTS representative of the damage and arrange for repair. Have the carrier inspect the damage before making any repairs to the unit.","{""source"": ""testing1.md"", ""section"": ""4.1.1 Receiving Checklist"", ""position"": 61}"
+7b54110a-d34c-41a1-8837-43ab0b3f9e79,"## 4.2.1 Unit Location Recommendations
+2. **Outlet from the Room**: The air exits through this outlet to the outside.","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 75}"
+7c71ba83-66eb-4382-b8e8-df821ce56be2,"## 4 Pre-Installation 4.1 Transport and storage
+The air handling units are packaged for easy handling and storage on the job site. Upon delivery, inspect all components for possible shipping damage. See the 'Receiving Checklist' section for detailed instructions. VTS recommends leaving units and accessories in their shipping packages/skids for protection and handling ease until installation.","{""source"": ""testing1.md"", ""section"": ""4 Pre-Installation 4.1 Transport and storage"", ""position"": 51}"
+8085325b-d9e0-41c3-8171-7ccd3dcf2b3b,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000013_a34bd97f62f76ac5be2fe2201ecfa622492f9cfb49b7580897f360c0e3653e4b.png)
+
+*Image Description:* The image appears to contain two horizontal lines with shaded rectangles around them. The lines create a contrasting visual effect where the background around the lines is less visible.","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 16}"
+81c552eb-311e-4a3e-b37f-b91ff8f1d06c,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000016_33138805fb5fb415469e26a9c65db599539043bd2669871f940adbb4dbe36d85.png)
+
+*Image Description:* The image appears to be two different versions of a circular symbol. Each version displays what resembles a series of vertical white lines within a black circular border.","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 19}"
+905947f6-987b-403c-b152-1caf7350b845,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000019_0e1ee49ce0e212a66676b5899f0fd06515f7d353288cebec33c6ca22527a7774.png)
+
+*Image Description:* The image shows a cross-flow exhaust air humidifier assembly. It consists of a horizontal panel with three vertical panels on either side, each with a plus and a minus symbol. These panels might be indicators used to control the compressor settings. A coiled cable passes horizontally across the middle panel, likely representing a pump conduit.","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 22}"
+950a6625-86e7-4910-8d7a-e4fd1d6494bf,"## 2 Model Descriptions
+- A central hexagonal shape likely containing various components.","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 28}"
+99bbdf24-c91b-44e9-87e3-582f8b8f1f4a,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000006_a5e92a23a8bb6dc389f38c28438ddf7a1e3e23ee9e0afd851c0819419953977f.png)
+
+*Image Description:* The image is a logo featuring the letters ""VTS"" in bold, lowercase letters with a stylized, curved arc above the 'T'. The color scheme includes gray and yellow.","{""source"": ""testing1.md"", ""section"": ""Table of content"", ""position"": 3}"
+9a3879d3-ae4a-458e-97bf-b88673802bee,"## 2 Model Descriptions
+- The device is enclosed in a frame border with additional intricate designs on the edges. Supply-air AHUU Fig.1. Examples of suspended AHUs type VVS010s -015s functional configurations","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 30}"
+9d6f2eb7-7698-4c9c-b925-ff27a6fad217,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000029_8bcae6a3de6b8b4e217b39fe459714c86d7aba548d7acb0aa745bcf666547215.png)
+
+*Image Description:* The image appears to be a technical drawing of a VVS030s device. It has dimensions labeled as H, which is 1100 units, W, which is 490 units, and a diameter of 660 units. The device has a central part, possibly housing electronic components, with flanges and screws around its edges. There are annotations suggesting measurements and spacing.","{""source"": ""testing1.md"", ""section"": ""FHEV:"", ""position"": 44}"
+a722abcf-6570-4d2e-8273-fbef132eef9a,"## 4.1.1 Receiving Checklist
+-  Inspect individual crates before accepting. Check for rattles, bent crates corners, or other visible indications of shipping damage.","{""source"": ""testing1.md"", ""section"": ""4.1.1 Receiving Checklist"", ""position"": 55}"
+a86d7733-91df-42ca-890c-4c285c0c39fb,"## FHEV:
+Fig.5. Dimension of the section","{""source"": ""testing1.md"", ""section"": ""FHEV:"", ""position"": 49}"
+a92e04a5-1ddf-485c-9aa1-96f384574cb0,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000020_ecd9a8d9ca9a6d162b78f7826f6ab1ec3db95c22f386162a8e419b9638ac6748.png)
+
+*Image Description:* The image shows an air handling unit (AHU) with a cross-flow air exchanger. It features:","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 23}"
+a9a8c650-36b5-4dcc-9dba-1f832bd3271d,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000033_ddcd61f3346617fe0731754e44508ee675c3b24642359f99a8035163adc1ded0.png)
+
+*Image Description:* The image depicts the logo and terminology for HVAC (Heating, Ventilation, and Air Conditioning) equipment and systems. The letters ""VTS"" stand for ""Vertical Ternary System,"" with the orange arc above the ""V"" typically representing a vertical orientation. The design conveys a sleek and modern aesthetic suitable for HVAC systems.","{""source"": ""testing1.md"", ""section"": ""4.2 Installation Preparation"", ""position"": 64}"
+aacdb823-cc80-4360-bdd0-9dbb269fd59b,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000032_a02976b7c088f695a4228c73aeb4feca2631a0097dc47693bc850aa79f23e015.png)
+
+*Image Description:* The image appears to be a logo with the letters ""VT"" in white, accompanied by a yellow arc above the ""V"" and the letters in gray below the ""V."" It is likely part of branding or logo design related to HVAC (Heating, Ventilation, and Air Conditioning) equipment or services.","{""source"": ""testing1.md"", ""section"": ""4 Pre-Installation 4.1 Transport and storage"", ""position"": 50}"
+b1f65d8c-25d0-43de-95d6-5bde33742ecb,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000031_056d00617369c6a80a5f23349e3802e8df6fb34a9300b98c3f920daa4efc5045.png)
+
+*Image Description:* The image is a logo with the letters ""VTS"" in bold gray font. Above the ""V"" is an orange arc or swoosh. It represents an industrial or technical brand identity, likely related to transportation or logistics.","{""source"": ""testing1.md"", ""section"": ""FHEV:"", ""position"": 46}"
+b719b2c9-b113-47c1-bafa-222079f3719e,"## General Information
+1. **Top View (a)**: Displays the side of the unit with a pipe section containing coils and connecting pipes.","{""source"": ""testing1.md"", ""section"": ""General Information"", ""position"": 35}"
+bc94dadc-2556-4a28-9015-a83a6546ea9e,"## 4.2.1 Unit Location Recommendations
+- 4. All units must be installed level - only the recovery section with counter - flow heat exchanger must be installed with a 0.5% drop in the direction of the drain pipe (fig.6a)","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 72}"
+bcc10f4c-1ade-4cca-8c71-3240196b8270,"## 2 Model Descriptions
+- Surrounding the center, there are patterns or designs.","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 29}"
+be3cd70d-42da-4539-94ec-805c151c91e5,"## FPV + HC:
+Fig.3. Example of the basic supply-exhaust unit (FPV) with additional coils section (HC): 1 - filters, 2 - counter-flow heat exchanger, 3 - fans, 4 - heater, 5 - cooler, 6 - droplet eliminator VVS005s-030s AHUs consist of freely configurable sections. One can find recovery section with very high efficiency counter-flow plate heat exchanger, filters (M5 and F7) and fans with EC motors. For that main unit is possible to choose additional section with heater (water and electric, cooler (water and Freon), secondary filter and silencer. The functions like filtration, heating and cooling are also available installed in one section with a fan (tab.2, fig.4). Table 2 Functionality and length of the sections","{""source"": ""testing1.md"", ""section"": ""FPV + HC:"", ""position"": 41}"
+c0083b6d-ea33-4e4a-ae86-f496ae0273f5,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000014_641b74b9edcb44fbdfb41155aaef940cf91e24cd47a8cb24954107dacd285c7f.png)
+
+*Image Description:* The image appears to be two partial versions or samples, likely of an electronic circuit or electrical component. The background is faded and there are faint outlines of a positive (+) and negative (-) symbol, suggesting parts of a circuit board or connection symbols. The focus is on the geometric shapes inside them.","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 17}"
+c23840c0-3dd4-4a97-8862-074ecd49f6d5,"## 4.2.1 Unit Location Recommendations
+3. **Outlet to the Supply Air**: The supply air is directed out through this outlet.","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 76}"
+c2f8da41-ffd6-4efd-88c0-7f24dbb9005a,"## 4.2.1 Unit Location Recommendations
+- 1. Consider the unit weight. Reference the unit weight on the unit nameplate","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 69}"
+c711793a-ff82-4163-95eb-cae7417ad324,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000021_ddcd61f3346617fe0731754e44508ee675c3b24642359f99a8035163adc1ded0.png)
+
+*Image Description:* The image shows a logo for the VTS system, which appears to be related to Automated Building Systems (AHUs). It features the letters ""VTS"" with a curved part in orange above the letter ""V,"" representing the upward trajectory or lift function of an AHU.","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 24}"
+ca132f71-db5b-42f8-be45-8334edf6dfd5,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000017_9ff3dd7a5025cf8ca7448dff05b8ab4d9f2bcd4647d6ff2d3e4d5f3246f0ae27.png)
+
+*Image Description:* The image shows a symbol consisting of a stylized ""X"" with three horizontal dashed lines crossing out the middle section. This is often used as a sign or icon representing error or warning messages in programming contexts.","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 20}"
+cb38a635-9696-48ef-a567-2e3b2316ceaf,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000012_5d5662917d16d89ceb8a96f558f9c1f40015d4f2845f60ebccefe1269dfec461.png)
+
+*Image Description:* The image displays two circular icons with a large ""Play"" button in the center, surrounded by a circular border. These icons are likely associated with video playback, indicated by the visible video fragments at the sides.","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 15}"
+cb592f73-1335-41e7-961f-2641c0688b88,"## SAFETY WARNING!
+-  Improperly installed, adjusted or altered equipment by an unqualified person could result in death or serious injury.","{""source"": ""testing1.md"", ""section"": ""SAFETY WARNING!"", ""position"": 10}"
+cee945a7-0698-49e3-a903-fdb208e37de2,"## 4.2.1 Unit Location Recommendations
+- 5. Coil piping and condensate drain requirements must be considered. Allow room for proper ductwork and electrical connections. Support all piping and ductwork independently of unit to prevent excess noise and vibration. For the right connection of the duct inside the unit have been placed the stickers showing outlet and inlet to the room Fig.5a. Fig 5a: Side connection to the room","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 73}"
+d2a71361-e3a8-44d6-81de-61c1cb548af7,"## 4.1.1 Receiving Checklist
+-  Inspect the unit for concealed damage before it is stored and as soon as possible after delivery. Report concealed damage to the freight line within the allotted time after delivery. Check with the carrier for their allotted time to submit a claim.","{""source"": ""testing1.md"", ""section"": ""4.1.1 Receiving Checklist"", ""position"": 58}"
+db3cfd3b-1b88-46e7-a41a-b34810a74d22,"## Table of content
+In-depth familiarization with the content of this manual, assembly, start-up and operation of the air handling unit in line with the instructions provided and following all safety regulations will ensure the basis of efficient, safe and non-failure operation of the device. This operation and maintenance manual does not cover all possible variants of the unit's configurations, examples of their assembly and installation as well as start-up, operating, repairing and maintenance. If the units are used for what they are intended, this documentation and any other materials provided with the unit contain information designed for the qualified technical personnel only.","{""source"": ""testing1.md"", ""section"": ""Table of content"", ""position"": 4}"
+db48b453-e41b-4252-8429-575c34c92dce,"## 4.2.1 Unit Location Recommendations
+- 2. Allow sufficient space for the recommended clearances, access panel removal, and maintenance access.","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 70}"
+dbb4b22d-6702-4c58-b2de-f36d0a5f43d7,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000008_89c4e166ee5f37b4e3c1a0d765768a941508839aa4bb2e6110286da16e155da4.png)
+
+*Image Description:* The image shows a yellow warning sign with a large exclamation mark inside it. The yellow background and exclamation mark are standard symbols for caution or alerting.","{""source"": ""testing1.md"", ""section"": ""SAFETY WARNING!"", ""position"": 6}"
+e1812920-0434-40d3-89cf-bdf630843ec0,"## 4.2.1 Unit Location Recommendations
+6. **Top panels**: This layout typically houses the compressor and coils.","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 79}"
+ea5c4ea8-e0a9-40fd-bfa2-f6c0d04d9bc4,"## General Information
+VVS suspended units are manufactured in sections designed for assembly in suspended configurations. All VVS AHUs are intended for indoor use, for cooperation with a duct ventilation system. The ventilation duct system is understood as a net of ventilating ducts. Thus access to the rotating parts of the unit (a fan's rotor) is impeded from both positive and negative pressure side of the unit. The majority of AHU's configuration is available in left-hand and right-hand execution (example in the fig.2). The version of the unit is determined by the flow direction of the air against the piping side of the unit (the side where the coils connection pipes are located). In case of supply-exhaust units the version is determined by the flow direction of the air in the supply section.","{""source"": ""testing1.md"", ""section"": ""General Information"", ""position"": 34}"
+eaad8d42-e782-41a8-9424-c289b6d0348e,"## 4.1.1 Receiving Checklist
+-  Do not move damaged material from the receiving location. It is the receiver's responsibility to provide reasonable evidence that concealed damage did not occur after delivery.","{""source"": ""testing1.md"", ""section"": ""4.1.1 Receiving Checklist"", ""position"": 59}"
+ee7e62a0-3a97-4165-aaff-9dda02b4392b,"## 4.2.2 Assembly in suspended position
+- NOTICE! It is recommended to use vibro absorber to suspend the units, to reduce the vibrations transmitted to the supporting structure.","{""source"": ""testing1.md"", ""section"": ""4.2.2 Assembly in suspended position"", ""position"": 82}"
+eecaf9fa-527a-4d5a-9dd1-fda118f2ef76,"## 4.2.1 Unit Location Recommendations
+5. **Outlet of the Supply Air**: The supply air is drawn in through this outlet.","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 78}"
+f0f91d7c-a6ed-49d9-bed1-6ffad1babf0c,"## 4 Pre-Installation 4.1 Transport and storage
+- Packages containing AHU elements should be stored away from places where operate mechanical devices (vehicles, cranes and other construction machinery). They should be stored in places where they will not be subject to any mechanical damages, humidity, aggressive chemical agents, fluids, dusts and other external agents which may deteriorate their condition. The AHUs have to be transported in their working position and they shall not be stored one on the other. The units and their components should be stored in rooms characterized by the following conditions: relative humidity: φ &lt; 80 % at t (temperature) = 20ºC ambient temperature: 40ºC &lt; t &lt; +60ºC - the devices should be out of the reach of any caustic dust, gas or steam as well as any other chemical substances which may have pro-corrosive influence on the unit and its components. While storing the unit, its plastic packaging must be unsealed.","{""source"": ""testing1.md"", ""section"": ""4 Pre-Installation 4.1 Transport and storage"", ""position"": 53}"
+f249f001-1bbf-4343-8945-04d82b772e70,"## General Information
+2. **Left Side View (b)**: Displays the top of the unit with another pipe section including coils and connecting pipes.","{""source"": ""testing1.md"", ""section"": ""General Information"", ""position"": 36}"
+f82eed2b-941e-4af9-bd78-6c73d09f6a5b,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000026_0baf28ad7d3b0f6a1b1c1aab88e972161a86fe7a030a8dff975051be4d643bbc.png)
+
+*Image Description:* The image is a technical drawing of a supply-exhaust unit (FPV) with additional coils. It's labeled with various components such as filters, temperature control units ( heaters and coolers), fans, a droplet eliminator, and a counter-flow heat exchanger. It also shows a droplet eliminator and mentions energy recovery, including high-efficiency counter-flow plate heat exchangers, filters, and fans powered by electric motors.","{""source"": ""testing1.md"", ""section"": ""FPV + HC:"", ""position"": 39}"
+f8bb977f-6bb1-466f-98f4-865497787969,"## FHEV:
+- The vehicle is depicted with a rectangular frame showing the internal layout. - The front section features a rear window and an automatic door mechanism. - There's a large central area that likely houses the battery or power modules. - Additional compartment doors and panels are present, probably for ventilation or storage. - There appear to be structural supports or axles on either end. This provides a basic internal layout for a hybrid electric vehicle. Fig.4. Example of the sections","{""source"": ""testing1.md"", ""section"": ""FHEV:"", ""position"": 47}"
+faf5299f-a4df-4d51-85c2-1a32ca4b9205,"## 4.1.1 Receiving Checklist
+-  If a unit appears damaged, inspect it immediately before accepting the shipment. Make specific notations concerning the damage on the freight bill. Do not refuse delivery.","{""source"": ""testing1.md"", ""section"": ""4.1.1 Receiving Checklist"", ""position"": 57}"
+fb04599e-6be7-4a33-a239-e454765cf4f1,"## General Information
+3. **Bottom View (c)**: Shows the entire top and side of the unit from a bottom perspective, highlighting a flexible connector. The airflow direction is indicated with an arrow, showing the main air flow path through the unit. Supply air-flow direction Exhaust air-flow direction Fig. 2 Versions of the VVS005s-030s AHU: a) Supply unit: Right-hand version, b) Basic supplyexhaust unit (FPV) - Left-hand version, c) Basic supply-exhaust unit (FPV) - Right-hand version By default the VVS05s-030s AHU is positioned horizontal-suspended. In case of some functional set it is also possible to set the unit in a vertical position - on a wall. Basic heat recovery unit components consist of a counter flow heat exchanger, condensate drain pan, filters, direct drive fan assemblies (fig.3).","{""source"": ""testing1.md"", ""section"": ""General Information"", ""position"": 37}"
+fbf5e17a-acda-40ea-a9b9-fb494a9242f2,"## 4.2.1 Unit Location Recommendations
+When selecting and preparing the unit installation location, consider the following recommendations.","{""source"": ""testing1.md"", ""section"": ""4.2.1 Unit Location Recommendations"", ""position"": 68}"
+fd23729f-7a10-4184-b581-926d5aaadf0e,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000011_c4bf8826a67b16c60cd1a4677fbae184ed0600cf3bbb8f1c706268a8f6671143.png)
+
+*Image Description:* The image shows a circular symbol characterized by a vertical wavy line, which appears to be part of a list of symbols and functions for air handling units.","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 14}"
+ff957899-8efd-4cba-b2bd-8098b7ced743,"![Image](https://donbmmphywrzdqombofg.supabase.co/storage/v1/object/public/kb.files/testing1/image_000015_5fbed48b0c0c9158d2873b5e4f42dcbffe605cb2e6a155dad3e1b1af41eb0a89.png)
+
+*Image Description:* The image appears to show two logos of the same entity, each with a stylized representation of an abstract symbol. The first logo at the top has a simple, line-drawn shape with horizontal lines. The second logo at the bottom includes two vertical bars and a stylized horizontal line beneath a symbol resembling an equilateral triangle, which is also connected to horizontal lines.","{""source"": ""testing1.md"", ""section"": ""2 Model Descriptions"", ""position"": 18}"
+ffe44c3f-114b-4b26-9097-f202e474a95b,"## Table of Contents
+- 2. Model Descriptions  5: (""section"": ""Model Descriptions  5"", ""position"": 14-30, ""chunk_ids"": [""fd23729f-7a10-4184-b581-926d5aaadf0e"", ""cb38a635-9696-48ef-a567-2e3b2316ceaf"", ""8085325b-d9e0-41c3-8171-7ccd3dcf2b3b"", ""c0083b6d-ea33-4e4a-ae86-f496ae0273f5"", ""ff957899-8efd-4cba-b2bd-8098b7ced743"", ""81c552eb-311e-4a3e-b37f-b91ff8f1d06c"", ""ca132f71-db5b-42f8-be45-8334edf6dfd5"", ""125119c1-1484-48dc-a71a-9d8fc18f6bb9"", ""905947f6-987b-403c-b152-1caf7350b845"", ""a92e04a5-1ddf-485c-9aa1-96f384574cb0"", ""c711793a-ff82-4163-95eb-cae7417ad324"", ""4003f0d8-a9d6-466b-9bed-86dd9639b015"", ""1d54ea8c-2da2-447b-95ec-c936309e4258"", ""022d564f-445f-434c-8d57-6d56b3acb128"", ""950a6625-86e7-4910-8d7a-e4fd1d6494bf"", ""bcc10f4c-1ade-4cca-8c71-3240196b8270"", ""9a3879d3-ae4a-458e-97bf-b88673802bee""])
+- 3. General Information  6: (""section"": ""General Information  6"", ""position"": 31-37, ""chunk_ids"": [""4f3966b5-d0e5-45ce-a97a-16468ad21191"", ""0e68e4d3-7114-4fba-81f0-3f064293a21a"", ""4459163a-e3dc-4982-a300-60708a98c5b8"", ""ea5c4ea8-e0a9-40fd-bfa2-f6c0d04d9bc4"", ""b719b2c9-b113-47c1-bafa-222079f3719e"", ""f249f001-1bbf-4343-8945-04d82b772e70"", ""fb04599e-6be7-4a33-a239-e454765cf4f1""])
+- 4. Pre-Installation 9: (""section"": ""Pre-Installation 9"", ""position"": none)
+- 4.1. Transport and storage  9: (""section"": ""Transport and storage  9"", ""position"": none)
+- 4.1.1. Receiving Checklist: (""section"": ""Receiving Checklist"", ""position"": 54-62, ""chunk_ids"": [""70b3b45b-cb10-47bf-856b-15aced0d9958"", ""a722abcf-6570-4d2e-8273-fbef132eef9a"", ""1b64ec46-eb44-4502-98a6-dfa0bc56dd94"", ""faf5299f-a4df-4d51-85c2-1a32ca4b9205"", ""d2a71361-e3a8-44d6-81de-61c1cb548af7"", ""eaad8d42-e782-41a8-9424-c289b6d0348e"", ""3f80e394-02fe-4a1a-9b0c-c589e40ca572"", ""77185686-bd21-4950-8c7f-1a44934b8f6d"", ""0ba137c0-ffb0-4a8b-b862-17f1908ab84f""])
+- 4.2. Installation Preparation 10: (""section"": ""Installation Preparation 10"", ""position"": 64-66, ""chunk_ids"": [""a9a8c650-36b5-4dcc-9dba-1f832bd3271d"", ""0c5d51e9-d525-4a68-87d4-5286228d67e1"", ""6704c402-fabf-4be2-8065-db3629fb9879""])
+- 4.2.1. Unit Location Recommendations: (""section"": ""Unit Location Recommendations"", ""position"": 67-80, ""chunk_ids"": [""6e4c64b4-0c30-4df9-ac0b-8e7b40099ee9"", ""fbf5e17a-acda-40ea-a9b9-fb494a9242f2"", ""c2f8da41-ffd6-4efd-88c0-7f24dbb9005a"", ""db48b453-e41b-4252-8429-575c34c92dce"", ""08fc5da6-0e2f-43de-8f06-fe0456fcedef"", ""bc94dadc-2556-4a28-9015-a83a6546ea9e"", ""cee945a7-0698-49e3-a903-fdb208e37de2"", ""340e0051-0c6f-4e10-a494-7ae7a27ec5c4"", ""7b54110a-d34c-41a1-8837-43ab0b3f9e79"", ""c23840c0-3dd4-4a97-8862-074ecd49f6d5"", ""01d9b595-92e2-40c4-af75-f95c90da563e"", ""eecaf9fa-527a-4d5a-9dd1-fda118f2ef76"", ""e1812920-0434-40d3-89cf-bdf630843ec0"", ""3100d6ab-9f67-410a-afc3-6262a07e904c""])
+- 4.2.2. Assembly in suspended position: (""section"": ""Assembly in suspended position"", ""position"": 81-82, ""chunk_ids"": [""424189b4-6b1d-4de7-b95b-09280c4e2936"", ""ee7e62a0-3a97-4165-aaff-9dda02b4392b""])
+- 4.2.3. Setting in vertical position: (""section"": ""Setting in vertical position"", ""position"": none)
+- 4.2.4. Connecting the ventilation ducts: (""section"": ""Connecting the ventilation ducts"", ""position"": none)
+- 4.2.5. Connection of heaters and coolers: (""section"": ""Connection of heaters and coolers"", ""position"": none)
+- 4.2.6. Draining out condensate: (""section"": ""Draining out condensate"", ""position"": none)
+- 4.2.7. Electric connection: (""section"": ""Electric connection"", ""position"": none)
+- 4.3. Service Access 18: (""section"": ""Service Access 18"", ""position"": none)
+- 4.3.1. Skid Removal: (""section"": ""Skid Removal"", ""position"": none)
+- 4.4. AHU components  19: (""section"": ""AHU components  19"", ""position"": none)
+- 4.4.1. Hydronic coil exchangers: (""section"": ""Hydronic coil exchangers"", ""position"": none)
+- 4.4.2. DX Coils: (""section"": ""DX Coils"", ""position"": none)
+- 4.4.3. Electric Heaters: (""section"": ""Electric Heaters"", ""position"": none)
+- 4.4.4. Fan's motors: (""section"": ""Fan's motors"", ""position"": none)
+- 4.4.5. Air Filters: (""section"": ""Air Filters"", ""position"": none)
+- 5. Automation 32: (""section"": ""Automation 32"", ""position"": none)
+- 5.1. Description of controls  32: (""section"": ""Description of controls  32"", ""position"": none)
+- 5.1.1. Introduction: (""section"": ""Introduction"", ""position"": none)
+- 5.1.2. Mains switch: (""section"": ""Mains switch"", ""position"": none)
+- 5.1.3. Communication port: (""section"": ""Communication port"", ""position"": none)
+- 5.1.4. Signaling controller status: (""section"": ""Signaling controller status"", ""position"": none)
+- 5.1.5. Simplified control panel - HMI Basic UPC: (""section"": ""Simplified control panel - HMI Basic UPC"", ""position"": none)
+- 5.2. System: (""section"": ""System"", ""position"": none)
+- 1. Start-Up: (""section"": ""Start-Up"", ""position"": none)
+- 5.2.1. Switching on power supply: (""section"": ""Switching on power supply"", ""position"": none)
+- 5.2.2. HMI Advanced UPC: (""section"": ""HMI Advanced UPC"", ""position"": none)
+- 5.2.3. Selection of operating mode: (""section"": ""Selection of operating mode"", ""position"": none)
+- 5.3. data: (""section"": ""data"", ""position"": none)
+- 2. Technical: (""section"": ""Technical"", ""position"": none)
+- 5.3.2 Carel. 5.3.2 Carel: (""section"": ""5.3.2 Carel"", ""position"": none)
+- 5.3.3 Cabling. 5.3.3 Cabling: (""section"": ""5.3.3 Cabling"", ""position"": none)
+- 5.4. : (""section"": """", ""position"": none)
+- 3. : (""section"": """", ""position"": none)
+- 5.4.2 Power connection. 5.4.2 Power connection: (""section"": ""5.4.2 Power connection"", ""position"": none)
+- 5.4.3 Connection of automation elements. 5.4.3 Connection of automation elements: (""section"": ""5.4.3 Connection of automation elements"", ""position"": none)
+- 6.1 Electrical system. 6.1 Electrical system: (""section"": ""6.1 Electrical system"", ""position"": none)
+- 6.2. : (""section"": """", ""position"": none)
+- 6.3 Water heaters. 6.3 Water heaters: (""section"": ""6.3 Water heaters"", ""position"": none)
+- 6.4 Electric heaters. 6.4 Electric heaters: (""section"": ""6.4 Electric heaters"", ""position"": none)
+- 6.5 Water and freon coolers. 6.5 Water and freon coolers: (""section"": ""6.5 Water and freon coolers"", ""position"": none)
+- 6.6 Counter-flow heat exchangers. 6.6 Counter-flow heat exchangers: (""section"": ""6.6 Counter-flow heat exchangers"", ""position"": none)
+- 6.7 Fan unit. 6.7 Fan unit: (""section"": ""6.7 Fan unit"", ""position"": none)
+- adjustment. adjustment: (""section"": ""adjustment"", ""position"": none)
+- 7 Start-up and. 7 Start-up and: (""section"": ""7 Start-up and"", ""position"": none)
+- 7.1 Measurement of air quantity and AHU output adjustment. 7.1 Measurement of air quantity and AHU output adjustment: (""section"": ""7.1 Measurement of air quantity and AHU output adjustment"", ""position"": none)
+- 7.2 Heat output adjustment of water heater. 7.2 Heat output adjustment of water heater: (""section"": ""7.2 Heat output adjustment of water heater"", ""position"": none)
+- 7.3 Adjustment of electric heater. 7.3 Adjustment of electric heater: (""section"": ""7.3 Adjustment of electric heater"", ""position"": none)
+- 7.4 Adjustment of cooler performance. 7.4 Adjustment of cooler performance: (""section"": ""7.4 Adjustment of cooler performance"", ""position"": none)
+- 8 Operation and maintenance. 8 Operation and maintenance: (""section"": ""8 Operation and maintenance"", ""position"": none)
+- 8.1 Dampers. 8.1 Dampers: (""section"": ""8.1 Dampers"", ""position"": none)
+- 8.2 Filters. 8.2 Filters: (""section"": ""8.2 Filters"", ""position"": none)
+- 8.3 Heat exchangers. 8.3 Heat exchangers: (""section"": ""8.3 Heat exchangers"", ""position"": none)
+- 8.3.1 Water heater. 8.3.1 Water heater: (""section"": ""8.3.1 Water heater"", ""position"": none)
+- 8.3.2 Electric Heater. 8.3.2 Electric Heater: (""section"": ""8.3.2 Electric Heater"", ""position"": none)
+- 8.3.3 Water cooler. 8.3.3 Water cooler: (""section"": ""8.3.3 Water cooler"", ""position"": none)
+- 8.3.4 Freon cooler and. 8.3.4 Freon cooler and: (""section"": ""8.3.4 Freon cooler and"", ""position"": none)
+- 8.3.5 Counter flow heat exchanger. 8.3.5 Counter flow heat exchanger: (""section"": ""8.3.5 Counter flow heat exchanger"", ""position"": none)
+- 8.4 Silencer section. 8.4 Silencer section: (""section"": ""8.4 Silencer section"", ""position"": none)
+- 4. : (""section"": """", ""position"": none)
+- 8.5 Fan unit  Safety. 8.5 Fan unit  Safety: (""section"": ""8.5 Fan unit  Safety"", ""position"": none)
+- 9. instructions: (""section"": ""instructions"", ""position"": none)
+- 11. Technical information to the regulation (U) No 327/2011: (""section"": ""Technical information to the regulation (U) No 327/2011"", ""position"": none)","{""source"": ""testing1.md"", ""section"": ""ToC"", ""position"": 0}"
